@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734058405255",
+    "firebase_url": "https://olympic-b7cf2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "olympic-b7cf2",
+    "storage_bucket": "olympic-b7cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734058405255:android:888a5253ef8a7eb1024722",
+        "android_client_info": {
+          "package_name": "com.example.olympic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734058405255-lm0mm5qan8cud77en4upf5i2mlnrjvsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwR2GKVW2JGZpMOPqsGBoaJ6WKSEUzBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734058405255-lm0mm5qan8cud77en4upf5i2mlnrjvsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
